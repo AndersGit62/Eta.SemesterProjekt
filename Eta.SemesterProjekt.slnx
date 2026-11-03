@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SystemMonitor/SystemMonitor.csproj" />
+  <Project Path="Test1/Test1.csproj" Id="bb680f17-9080-4c50-89f2-77dfbe7a5fcf" />
+  <Project Path="Wristband/Wristband.vcxproj" Id="2365162e-79d3-4169-b19b-706740258bd8" />
+</Solution>
